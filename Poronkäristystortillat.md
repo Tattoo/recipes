@@ -1,6 +1,6 @@
 ---
 created: 2024-11-07T23:03:33+02:00
-modified: 2024-11-07T23:07:11+02:00
+modified: 2024-11-23T21:58:35+02:00
 ---
 
 # Poronkäristystortillat
@@ -25,7 +25,7 @@ https://blogit.meillakotona.fi/perinneruokaaprkl/poronkaristystortillat/
 - 1 dl puolukkaa
 - 150 g ranskankermaa
 
-#Ohje
+# Ohje
 
 1 Kuori sipuli ja palsternakka. Hienonna sipuli. Leikkaa palsternakka noin 1 x 1 cm kokoisiksi kuutioiksi.
 
