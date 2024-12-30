@@ -1,6 +1,6 @@
 ---
 created: 2024-12-30T11:24:28+02:00
-modified: 2024-12-30T11:30:26+02:00
+modified: 2024-12-30T11:30:56+02:00
 ---
 
 # Tortillamunakas
@@ -32,7 +32,7 @@ https://www.meillakotona.fi/reseptit/tortillamunakas-kaaraise-vartissa-valmistuv
 
 # Ohje
 
-1. Valmistele valitsemasi täyte. *Kalatäyte:* Valuta kala. Kuori ja hienonna sipuli. Viipaloi kurkku ja oliivit. *Kasvistäyte:* Halkaise avokado, poista kivi ja kuoret. Viipaloi avokado. *Kinkkutäyte:* Revi mozzarella. Leikkaa paprika viipaleiksi.
+1. Valmistele valitsemasi täyte. **Kalatäyte:** Valuta kala. Kuori ja hienonna sipuli. Viipaloi kurkku ja oliivit. **Kasvistäyte:** Halkaise avokado, poista kivi ja kuoret. Viipaloi avokado. **Kinkkutäyte:** Revi mozzarella. Leikkaa paprika viipaleiksi.
 
 1. Valmista yksi tortillamunakas kerrallaan. Kuumenna teelusikallinen öljyä paistinpannulla. Riko muna keskelle pannua ja paina päälle yksi tortilla siten, että kananmuna leviää koko tortillan alueelle. Paista kunnes muna on saanut hieman väriä.
 
