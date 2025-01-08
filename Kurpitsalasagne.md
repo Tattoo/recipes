@@ -1,6 +1,6 @@
 ---
 created: 2025-01-08T09:39:08+02:00
-modified: 2025-01-08T10:23:52+02:00
+modified: 2025-01-08T10:24:18+02:00
 ---
 
 # Kurpitsalasagne
@@ -36,7 +36,7 @@ https://www.meillakotona.fi/reseptit/kurpitsalasagne
 - 1 tl timjamia
 - suolaa
 - kasvisfondia
-- mustapippuria
+- valkopippuria
 
 # Ohje
 
