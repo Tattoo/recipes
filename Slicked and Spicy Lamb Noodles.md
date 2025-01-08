@@ -1,6 +1,6 @@
 ---
 created: 2025-01-08T22:23:48+02:00
-modified: 2025-01-08T22:28:06+02:00
+modified: 2025-01-08T22:29:39+02:00
 ---
 
 # Slicked and Spicy Lamb Noodles
@@ -10,14 +10,14 @@ https://www.bonappetit.com/recipe/spicy-lamb-noodles-pasta-recipe
  # Ingredients
 
 - 2 Tbsp. cumin seeds
-- ½ cup extra-virgin olive oil
+- ½ cup (1,2 dl) extra-virgin olive oil
 - 3 large shallots, thinly sliced
 - salt
 - 2 Tbsp. double-concentrated tomato paste
 - 1 Tbsp. smoked paprika
 - crushed red pepper flakes
-- 1 lb. ground lamb
-- 1 lb. pappardelle or other wide noodle
+- 1 lb. (450 g) ground lamb
+- 1 lb. (450 g) pappardelle or other wide noodle
 - coarsely chopped mint, plus more for serving
 
 # Instructions
