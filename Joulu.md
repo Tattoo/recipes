@@ -1,6 +1,6 @@
 ---
 created: 2025-01-08T09:49:51+02:00
-modified: 2025-01-08T10:20:50+02:00
+modified: 2025-01-08T10:21:52+02:00
 ---
 
 # Joulu
@@ -92,7 +92,7 @@ https://www.meillakotona.fi/reseptit/reseptit-jouluksi-herkutteluun-taatelikakku
 
 ## Ohje
 
-1. Pilko taatelit. Lisää puolet kattilaan ja lisää vesi. Keitä noin 15 minuuttia, kunnes taatelit ovat pehmeitä.
+1. Pilko taatelit. Laita puolet kattilaan ja lisää vesi. Keitä noin 15 minuuttia, kunnes taatelit ovat pehmeitä.
 
 1. Soseuta keitetyt taatelit sauvasekoittimella. Lisää paloiteltu rasva ja anna sulaa taatelisoseen joukkoon.
 
