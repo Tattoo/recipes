@@ -1,7 +1,6 @@
 ---
 created: 2025-01-08T22:23:48+02:00
-modified: 2025-01-08T22:31:04+02:00
-type: Checklist
+modified: 2025-01-08T22:31:12+02:00
 ---
 
 # Slicked and Spicy Lamb Noodles
