@@ -1,9 +1,11 @@
 ---
 created: 2025-01-08T09:39:08+02:00
-modified: 2025-01-08T09:49:10+02:00
+modified: 2025-01-08T10:23:01+02:00
 ---
 
 # Kurpitsalasagne
+
+https://www.meillakotona.fi/reseptit/kurpitsalasagne
 
 # Ainekset
 
