@@ -1,6 +1,6 @@
 ---
 created: 2025-01-08T09:39:08+02:00
-modified: 2025-01-08T10:23:01+02:00
+modified: 2025-01-08T10:23:52+02:00
 ---
 
 # Kurpitsalasagne
@@ -54,6 +54,6 @@ https://www.meillakotona.fi/reseptit/kurpitsalasagne
 
 1. Levitä kauhallinen kurpitsasosetta voidellut uunivuoan (noin 20 × 30 cm) pohjalle. Lado päälle lasagnelevyjä. 
 
-1. Levitä päälle neljäsosa kurpitsasoseesta. Ripottele päälle basilikanlehtiä, pinaattia ja yksi mozzarella revittynä. Lisää kerros jauhelihakastiketta. Toista, kunnes ainekset on käytetty. Lisää pinnalle kurpitsansiemeniä.
+1. Levitä päälle neljäsosa kurpitsasoseesta. Ripottele päälle basilikanlehtiä, pinaattia ja yksi mozzarella revittynä. Lisää kerros jauhelihakastiketta. Lado päälle taas lasagnelevyjä. Toista, kunnes ainekset on käytetty. Lisää pinnalle kurpitsansiemeniä.
 
 1. Kurpitsalasagne paistetaan 200-asteisessa uunissa 35–40 minuuttia, kunnes pasta on kypsää ja pinta on kauniin ruskea.
