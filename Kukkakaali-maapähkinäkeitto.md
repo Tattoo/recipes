@@ -1,14 +1,13 @@
 ---
 created: 2024-11-07T22:58:27+02:00
-modified: 2024-11-07T23:03:12+02:00
+modified: 2025-01-14T19:31:39+02:00
 ---
 
 # Kukkakaali-maapähkinäkeitto
 
 https://www.meillakotona.fi/reseptit/pehmea-kukkakaalikeitto
 
-#Ainekset
-4–5 annosta
+# Ainekset
 
 - 1 iso kukkakaali
 - 1 iso peruna (esim. Rosamunda)
