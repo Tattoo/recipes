@@ -1,6 +1,6 @@
 ---
 created: 2025-02-27T08:18:32+02:00
-modified: 2025-02-27T08:32:24+02:00
+modified: 2025-02-27T08:33:01+02:00
 ---
 
 # Uunipasta melanzane alla parmigiana
@@ -34,7 +34,7 @@ https://www.meillakotona.fi/reseptit/herkkutattimelanzane
 
 1. Kaada tomaatit kulhoon. Lisää tölkkeihin tilkka vettä, huljuttele ja kaada vedet kulhoon.
 
-1. Kuori ja hienonna valkosipulinkynnet. Revi basilika. Ripottele valkosipuli ja basilika kulhoon ja mausta suolalla, pippurilla, balsamicolla ja sokerilla.
+1. Kuori ja hienonna valkosipulinkynnet. Revi basilika. Ripottele valkosipuli, timjami ja basilika kulhoon ja mausta suolalla, pippurilla, balsamicolla ja sokerilla.
 
 1. Kiepauta nauhapasta kerälle ja aseta vuokaan. Suikaloi munakoisot ja levitä pastan päälle vuokaan sienien ja revityn mozzarellan kanssa. Peitä vuoka tomaattikastikkeella. Raasta päälle parmesaania. 
 
