@@ -1,6 +1,6 @@
 ---
 created: 2025-02-27T08:18:32+02:00
-modified: 2025-02-27T08:29:50+02:00
+modified: 2025-02-27T08:31:21+02:00
 ---
 
 # Uunipasta melanzane alla parmigiana
@@ -34,6 +34,6 @@ https://www.meillakotona.fi/reseptit/helppo-melanzane-spagettivuoka
 
 1. Kuori ja hienonna valkosipulinkynnet. Revi basilika. Ripottele valkosipuli ja basilika kulhoon ja mausta suolalla, pippurilla, balsamicolla ja sokerilla.
 
-1. Kiepauta nauhapasta kerälle ja aseta vuokaan. Suikaloi munakoisot ja levitä pastan päälle vuokaan sienien kanssa. Peitä vuoka tomaattikastikkeella. Raasta päälle parmesaania. 
+1. Kiepauta nauhapasta kerälle ja aseta vuokaan. Suikaloi munakoisot ja levitä pastan päälle vuokaan sienien ja revityn mozzarellan kanssa. Peitä vuoka tomaattikastikkeella. Raasta päälle parmesaania. 
 
 1. Kypsennä 200-asteisessa uunissa noin 45 minuuttia.
