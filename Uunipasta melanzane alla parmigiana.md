@@ -1,6 +1,6 @@
 ---
 created: 2025-02-27T08:18:32+02:00
-modified: 2025-02-27T08:32:02+02:00
+modified: 2025-02-27T08:32:24+02:00
 ---
 
 # Uunipasta melanzane alla parmigiana
@@ -18,7 +18,7 @@ https://www.meillakotona.fi/reseptit/herkkutattimelanzane
 - 200 g herkkusieniä (tmv.)
 - suolaa
 - sokeria
-- muatapippuria
+- mustapippuria
 - balsamicoa
 - 1 rku basilikaa
 - 2 rkl hienonnettua timjamia
