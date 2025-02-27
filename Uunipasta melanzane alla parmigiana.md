@@ -1,6 +1,6 @@
 ---
 created: 2025-02-27T08:18:32+02:00
-modified: 2025-02-27T08:31:21+02:00
+modified: 2025-02-27T08:32:02+02:00
 ---
 
 # Uunipasta melanzane alla parmigiana
@@ -8,6 +8,8 @@ modified: 2025-02-27T08:31:21+02:00
 https://www.meillakotona.fi/reseptit/uunipasta-melanzane-alla-parmigiana
 
 https://www.meillakotona.fi/reseptit/helppo-melanzane-spagettivuoka
+
+https://www.meillakotona.fi/reseptit/herkkutattimelanzane
 
 # Ainekset
 - 1 prk (280/180 g) grillattuja munakoisoja öljyssä (esim. Pirkka)
