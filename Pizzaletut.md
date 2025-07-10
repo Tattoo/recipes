@@ -1,6 +1,6 @@
 ---
 created: 2025-07-10T10:14:01+03:00
-modified: 2025-07-10T10:18:04+03:00
+modified: 2025-07-10T10:19:02+03:00
 ---
 
 # Pizzaletut
@@ -35,6 +35,6 @@ https://anna.fi/reseptit/pizzaletut-chorizo-taytteella
 
 1. Sipaise lettujen pinnalle punaista pestoa, ripottele päälle juustoraastetta ja lisää vielä muutama chorizo-viipale.
 
-1. Nosta räiskäleet leivinpaperilla peitetylle uunipellille ja paista 200-asteisessa uunissa 5–8 minuuttia.
+1. (Nosta räiskäleet leivinpaperilla peitetylle uunipellille ja paista 200-asteisessa uunissa 5–8 minuuttia.)
 
 1. Viimeistele tuoreella basilikalla ja rucolalla.
