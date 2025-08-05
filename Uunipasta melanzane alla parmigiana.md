@@ -1,6 +1,6 @@
 ---
 created: 2025-02-27T08:18:32+02:00
-modified: 2025-02-27T08:33:01+02:00
+modified: 2025-08-05T19:53:59+03:00
 ---
 
 # Uunipasta melanzane alla parmigiana
@@ -32,7 +32,7 @@ https://www.meillakotona.fi/reseptit/herkkutattimelanzane
 
 1. Voitele iso lasagnevuoka tai kaksi pienempää vuokaa munakoisojen öljyllä.
 
-1. Kaada tomaatit kulhoon. Lisää tölkkeihin tilkka vettä, huljuttele ja kaada vedet kulhoon.
+1. Kaada tomaatit kulhoon. Lisää tölkkeihin tilkka vettä, huljuttele ja kaada vedet kulhoon. Soseuta tomaatit kastikkeeksi.
 
 1. Kuori ja hienonna valkosipulinkynnet. Revi basilika. Ripottele valkosipuli, timjami ja basilika kulhoon ja mausta suolalla, pippurilla, balsamicolla ja sokerilla.
 
