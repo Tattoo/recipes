@@ -1,6 +1,6 @@
 ---
 created: 2024-11-07T21:54:33+02:00
-modified: 2024-11-07T21:54:33+02:00
+modified: 2025-09-08T10:02:49+03:00
 ---
 
 # Pinaatti-pastavuoka
@@ -8,7 +8,6 @@ modified: 2024-11-07T21:54:33+02:00
 https://blogit.meillakotona.fi/perinneruokaaprkl/pinaatti-pastavuoka-jogurtissa-sen-salaisuus/
 
 # Ainekset 
-(4 annosta)
 
 - 300 g pastaa (esim. gnocchi, penne tai fusilli)
 - 1 iso sipuli
