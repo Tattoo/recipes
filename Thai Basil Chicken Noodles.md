@@ -1,6 +1,6 @@
 ---
 created: 2024-11-07T22:10:48+02:00
-modified: 2024-11-07T22:25:52+02:00
+modified: 2025-09-24T08:17:38+03:00
 ---
 
 # Thai Basil Chicken Noodles
@@ -9,8 +9,8 @@ https://old.reddit.com/r/GifRecipes/comments/sc1qad/thai_basil_chicken_noodle_bo
 
 # Ingredients
 
-- 8 ounces rice noodles
-- 1 pound ground or thinly sliced chicken
+- 8 ounces (~220 g) rice noodles
+- 1 pound (~450 g) ground or thinly sliced chicken
 - 2 shallots, peeled and diced
 - 6 cloves garlic, peeled and minced
 - 1–4 chili peppers minced depending on heat tolerance, or use crushed red pepper
