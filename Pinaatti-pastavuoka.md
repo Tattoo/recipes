@@ -1,6 +1,6 @@
 ---
 created: 2024-11-07T21:54:33+02:00
-modified: 2025-09-08T10:02:49+03:00
+modified: 2025-09-24T08:12:54+03:00
 ---
 
 # Pinaatti-pastavuoka
@@ -22,14 +22,14 @@ https://blogit.meillakotona.fi/perinneruokaaprkl/pinaatti-pastavuoka-jogurtissa-
 - 150 g
 pecorinojuustoa (tai parmesania)
 
-Tee näin:
+# Ohje
 
-Keitä pasta pakkauksen ohjeen mukaan suolala maustetussa vedessä (2 L vettä + 2 tl suolaa).
+1. Keitä pasta pakkauksen ohjeen mukaan suolala maustetussa vedessä.
 
-Kuori sipulit ja hienonna ne. Kuullota sipuleita miedolla lämmöllä paistinpannulla öljyssä noin 5 minuuttia.
+1. Kuori sipulit ja hienonna ne. Kuullota sipuleita miedolla lämmöllä paistinpannulla öljyssä noin 5 minuuttia.
 
-Lisää pannulle vesi ja pinaatit. Anna höyrystyä, kunnes pinaatti kutistuu. Lisää joukkoon myös basilikan lehdet. Nosta pannu pois levyltä ja lisää joukkoon kreikkalainen jogurtti. Mausta sitruunamehulla, suolalla ja mustapippurilla.
+1. Lisää pannulle vesi ja pinaatit. Anna höyrystyä, kunnes pinaatti kutistuu. Lisää joukkoon myös basilikan lehdet. Nosta pannu pois levyltä ja lisää joukkoon kreikkalainen jogurtti. Mausta sitruunamehulla, suolalla ja mustapippurilla.
 
-Raasta pecorinojuusto ja lisää siitä 100 g pannulle. Lisää pannulle keitetty ja valutettu pasta. Sekoita hyvin ja kaada voideltuun uunivuokaan. Ripottele päälle loput juustoraasteesta.
+1. Raasta pecorinojuusto ja lisää siitä 100 g pannulle. Lisää pannulle keitetty ja valutettu pasta. Sekoita hyvin ja kaada voideltuun uunivuokaan. Ripottele päälle loput juustoraasteesta.
 
-Paista 200-asteisessa uunissa noin 30 min, tai kunnes pinta on saanu kauniin värin.
+1. Paista 200-asteisessa uunissa noin 30 min, tai kunnes pinta on saanu kauniin värin.
