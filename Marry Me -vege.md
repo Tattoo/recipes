@@ -1,6 +1,6 @@
 ---
 created: 2025-09-24T07:52:47+03:00
-modified: 2025-09-24T07:57:51+03:00
+modified: 2025-10-06T17:59:33+03:00
 ---
 
 # Marry Me -vege
@@ -11,8 +11,7 @@ https://www.meillakotona.fi/reseptit/marry-me-kana-vegena
 
 - 2 tlk (á 230 g) käyttövalmiita kikherneitä
 - 1 rku basilikaa
-- 1
-- sipuli
+- 1 sipuli
 - 2 isoa valkosipulinkynttä
 - 60 g säilöttyjä aurinkokuivattuja tomaatteja (punnittu ilman öljyä)
 - 1 tl valkoviinietikkaa
