@@ -1,6 +1,6 @@
 ---
 created: 2024-11-07T22:58:27+02:00
-modified: 2025-01-14T19:31:39+02:00
+modified: 2026-02-15T08:58:11+02:00
 ---
 
 # Kukkakaali-maapähkinäkeitto
@@ -27,7 +27,7 @@ https://www.meillakotona.fi/reseptit/pehmea-kukkakaalikeitto
 
 # Ohje
 
-1. Paloittele kukkakaali. Kuori ja kuutioi per una. Kuori ja lohko sipulit ja valkosipulinkynnet.
+1. Paloittele kukkakaali. Kuori ja kuutioi peruna. Kuori ja lohko sipulit ja valkosipulinkynnet.
 
 1. Levitä kukkakaalit ja sipulit leivinpaperin päälle pellille. Lorauta öljyä päälle ja mausta suolalla ja pippurilla.
 
