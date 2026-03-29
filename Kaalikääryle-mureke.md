@@ -1,6 +1,6 @@
 ---
 created: 2026-03-29T21:21:15+03:00
-modified: 2026-03-29T23:15:27+03:00
+modified: 2026-03-29T23:15:48+03:00
 ---
 
 # Kaalikääryle-mureke
@@ -20,8 +20,7 @@ https://www.meillakotona.fi/reseptit/kaalikaarylemureke
 - suolaa
 - mustapippuria
 - meiramia
-- ½ dl
-- korppujauhoja
+- ½ dl korppujauhoja
 
 ## Lisäksi
 - 1 kg perunoita
