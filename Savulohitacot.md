@@ -1,6 +1,6 @@
 ---
 created: 2026-04-27T23:37:17+03:00
-modified: 2026-04-27T23:41:16+03:00
+modified: 2026-05-08T22:37:45+03:00
 ---
 
 # Savulohitacot
@@ -32,4 +32,4 @@ https://www.meillakotona.fi/reseptit/savulohitacot
 
 1. Huuhtele babypinaatit tarvittaessa. Kuori porkkanat ja leikkaa kuorimaveitsellä pitkiksi suikaleiksi.
 
-1. Lämmitä tortillat paistinpannulla. Levitä tortilloille feta-jogurttikastiketta, pinaattia, porkkanaa ja savulohta. Lisää pikkelöityä sipulia ja hienonnettua minttua tai korianteria.
+1. Lämmitä tortillat paistinpannulla. Levitä tortilloille feta-jogurttikastiketta, pinaattia, porkkanaa ja savulohta. Lisää pikkelöityä sipulia ja hienonnettua korianteria.
