@@ -1,6 +1,6 @@
 ---
 created: 2026-04-27T23:43:40+03:00
-modified: 2026-04-27T23:48:15+03:00
+modified: 2026-08-06T14:30:30+03:00
 ---
 
 # Helppo Luonnonkalapastavuoka
@@ -15,6 +15,7 @@ https://www.meillakotona.fi/reseptit/tonnikalapastavuoka
 - 1 tlk tomaattimurskaa (400 g)
 - 6 dl vettä
 - 2 dl ruokakermaa
+- mustia oliiveja
 - oreganoa
 - basilikaa
 - valkosipulirouhetta
